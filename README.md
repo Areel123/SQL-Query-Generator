@@ -14,4 +14,4 @@ I have made this project called **SQL Query Generator**, a web application devel
 - **Streamlit**: For building the web application interface.
 - **Google Generative AI**: For generating SQL queries based on user input.
 - **Python**: The primary programming language used in the project.
-- **Pandas**: For data manipulation and creating structured output.
+
