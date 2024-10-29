@@ -15,3 +15,6 @@ I have made this project called **SQL Query Generator**, a web application devel
 - **Google Generative AI**: For generating SQL queries based on user input.
 - **Python**: The primary programming language used in the project.
 
+![1728994003543](https://github.com/user-attachments/assets/7e11aba1-5d0a-46ff-93d5-9229444f672e)
+![1728994003788](https://github.com/user-attachments/assets/d1da90f3-e998-4a7d-ba66-ddcc8cf16be1)
+
